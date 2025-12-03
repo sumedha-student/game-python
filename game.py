@@ -10,7 +10,7 @@ while True: #LOOP RUNS ALL THE TIME
         break
     else:
         print('Invalid Choice !')
-        # User wants the roll die until he enters n = terminate (break if n) if n #So LOOP
+        # User wants to roll two die until he enters n = terminate (break if n) if n #So LOOP
          #ASK:roll the dice? y/n
          #If y
          #Generate two random integers in range 1 to 6
