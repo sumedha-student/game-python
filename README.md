@@ -1,2 +1,3 @@
 # game-python
-This is my first Git Repositry
+This is my first Git Repositry.
+Rolling a die
